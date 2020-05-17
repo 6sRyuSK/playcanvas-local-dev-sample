@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "build": "webpack",
+    "watch": "webpack -w"
+  },
   "dependencies": {
     "webpack-playcanvas": "^1.0.3"
   },
