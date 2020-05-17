@@ -20,4 +20,9 @@ module.exports = {
         '.ts', '.js',
       ],
     },
+    externals: [
+      {
+        pc: 'pc'
+      }
+    ]
   };
